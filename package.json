@@ -1,1 +1,18 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A weather app built with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT"
+}
 
