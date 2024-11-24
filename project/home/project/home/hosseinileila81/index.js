@@ -1,4 +1,4 @@
-const apiKey = "b1b15e88fa797225412429c1c50c122a1"; //OpenWeatherMap API key
+const apiKey = "6509abc2b7c4b101385d8dcd3c430520"; //OpenWeatherMap API key
 
 // Function to display the weather data
 function displayWeather(response) {
